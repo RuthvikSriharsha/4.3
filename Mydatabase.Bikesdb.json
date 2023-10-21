@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "65343c17e743cd99bc64fb23"
+  },
+  "brand": "Royal Enfield",
+  "engine": "Single Cylinder",
+  "topSpeed": "110 km/h",
+  "mileage": "35-40 km/l",
+  "price": "₹1.85 Lakhs",
+  "type": "Cruiser"
+},
+{
+  "_id": {
+    "$oid": "65343c17e743cd99bc64fb24"
+  },
+  "brand": "Bajaj",
+  "model": "Pulsar 220 F",
+  "engine": "Single Cylinder,",
+  "topSpeed": "134 km/h",
+  "mileage": "35-40 km/l",
+  "price": "₹1.20 Lakhs",
+  "type": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65343c17e743cd99bc64fb25"
+  },
+  "brand": "Honda",
+  "model": "CB Shine",
+  "engine": "4-Stroke",
+  "topSpeed": "100 km/h",
+  "mileage": "55-60 km/l",
+  "price": "₹75,000",
+  "type": "Commuter"
+},
+{
+  "_id": {
+    "$oid": "65343c17e743cd99bc64fb26"
+  },
+  "brand": "Suzuki",
+  "model": "Gixxer SF 250",
+  "engine": "4-Stroke",
+  "topSpeed": "155 km/h",
+  "mileage": "30-35 km/l",
+  "price": "₹1.80 Lakhs",
+  "type": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65343c17e743cd99bc64fb27"
+  },
+  "brand": "KTM",
+  "model": "Duke 390",
+  "engine": "373cc Single Cylinder",
+  "topSpeed": "175 km/h",
+  "mileage": "25-30 km/l",
+  "price": "₹2.80 Lakhs",
+  "type": "Naked Sports"
+}]
